@@ -1,0 +1,13 @@
+{:paths ["."]
+ :deps {;org.clojure/clojure {:mvn/version "1.11.1"}
+        ;org.clojure/algo.generic {:mvn/version "0.1.3"}
+        ;org.clojure/math.numeric-tower {:mvn/version "0.0.5"}
+        net.mikera/core.matrix {:mvn/version "0.63.0"}
+        net.mikera/vectorz-clj {:mvn/version "0.48.0"}
+        ;org.clojure/math.combinatorics {:mvn/version "0.2.0"}
+        ;org.clojure/data.priority-map {:mvn/version "1.1.0"}
+        ;com.clojure-goes-fast/clj-async-profiler {:mvn/version "1.1.1"}
+        ;org.bytedeco/cuda {:mvn/version "12.1-8.9-1.5.10-SNAPSHOT"}
+        ;uncomplicate/neanderthal {:mvn/version "0.45.0" :exclusions [org.jcuda/jcuda-natives org.jcuda/jcublas-natives]}
+        org.clojure/data.json {:mvn/version "2.5.0"}
+        }}

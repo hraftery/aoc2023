@@ -1,0 +1,1 @@
+{:deps {org.clojure/algo.generic {:mvn/version "0.1.3"}}}
